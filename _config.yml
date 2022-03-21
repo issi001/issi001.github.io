@@ -1,11 +1,10 @@
 title: Richard Fritz-Hewer # your name (or website title) here
 logo: "/images/IMG-20191129-WA0016.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Student of Data Science...working towards a BSc in the subject and looking to supplement academia with as much practical experience as possible.
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
